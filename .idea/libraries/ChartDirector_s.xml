@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ChartDirector_s">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/ChartDirector_s.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="https://www.advsofteng.com/doc/cdjava.htm#threedscatter.htm" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
